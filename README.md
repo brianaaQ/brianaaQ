@@ -27,6 +27,7 @@ I'm a quick lerner and quite stubborn to excel at what I do.
 
 Here are a few things I’ve worked on:
 
+* **Official Site** - a fully functional site for an existing construction firm, where I worked with a real client and designed the site to their taste/ demand. I worked alone on creating the site, the domain and the cPanel were the only ones already configured. Technologies used: html, CSS, JavaScript.
 * **Banking System** – a simple banking application that simulates real-life use of a banking account - SFML, , SQL, C++, Argon2id, OOP
 * **Racing Game** – 2D multyplayer racing game - swing, Java, JPanel, Server
 * **Clinic Management** – simple console application that simulates the management of a clinic- Java, SQL, OOP, Server
